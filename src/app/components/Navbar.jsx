@@ -51,8 +51,8 @@ export default function Navbar() {
           <Link href="/appointments" className="block text-gray-700">Appointments</Link>
           <Link href="/contact" className="block text-gray-700">Contact</Link>
           <hr />
-          <Link href="/login" className="block text-blue-600">Login</Link>
-          <Link href="/signup" className="block text-blue-600">Sign Up</Link>
+          <Link href="/log-in" className="block text-blue-600">Login</Link>
+          <Link href="/sign-up" className="block text-blue-600">Sign Up</Link>
         </div>
       )}
     </nav>
